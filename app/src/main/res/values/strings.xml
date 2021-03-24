@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WorldHelmet</string>
+    <string name="helmet_name">Helmet Name</string>
+    <string name="detail">Detail</string>
+    <string name="about">About</string>
+    <string name="name">Wahyu Krishna Hadi</string>
+    <string name="email">wahyukrishna.tkj1@gmail.com</string>
+    <string name="material">BAHAN</string>
+    <string name="features">FITUR</string>
+    <string name="homologation">HOMOLOGASI</string>
+    <string name="size">UKURAN</string>
+    <string name="description">DESKRIPSI</string>
+    <string name="year">tahun</string>
+    <string name="share">Bagikan</string>
+    <string name="title">WORLDHELMET</string>
+
+</resources>
